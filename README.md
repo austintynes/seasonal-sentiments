@@ -23,7 +23,8 @@ When building `Seasonal Sentiments` we have learned e-commerce concepts such as,
 
 Navigate to the deployed site using the link below and enjoy!
 
-Here is the deployed app: [Check it out!](https://Insert.Real.URL.HERE.herokuapp.com/)
+Here is the deployed app: [Check it out!](
+https://git.heroku.com/evening-tundra-96235.git)
 
 ![Screenshot of Seasonal Sentiment](./client/public/images/seasonal-semtiments-screenshot.png)
 
